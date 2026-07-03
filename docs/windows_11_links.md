@@ -411,7 +411,6 @@ For the ARM64 ISOs of this build, see [here](windows_arm_links.md).
 
 **Other Versions**
 
-- [MVS Bot](https://discord.gg/FajfGaH3nD)
 - https://os.click/
 - https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5
 - Download the [Official Microsoft ESD file](https://worproject.com/esd) and [ESD>ISO Converter](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-65.7z) by [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/),

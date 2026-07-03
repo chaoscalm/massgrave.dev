@@ -86,15 +86,6 @@ The Consumer ISO includes all editions such as Home, Pro, and Education, but exc
 
 </details>
 
-#### How can I obtain an official Microsoft ISO that is not available here?
-
-<details>
-<summary>Click here for info</summary>
-
-You can request the file [here](https://discord.gg/FajfGaH3nD).
-
-</details>
-
 #### How do I use DumbVersion Patch (.dvp) files?
 
 <details>
@@ -126,7 +117,7 @@ There are many places where you can find these checksums for verification. Examp
  -	[Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
 
 <details>
-  <summary>More info on Official links!</summary>
+  <summary>More info on Official links</summary>
 
 **MVS**  
 On MVS, you need to login and click on 'All Downloads' button and then search the product name.  
